@@ -34,4 +34,4 @@ Number of Attributes: 16
 | 10     | 0.99         | linear     | 4.90    | 9.93         |
 
 ## Convergence Graph
-![graph]()
+![graph](https://github.com/karanthakur13/Parameter_Optimization_SVM/blob/main/svm.png)
